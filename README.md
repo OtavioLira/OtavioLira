@@ -8,7 +8,7 @@
 <div style="align-items: stretch">
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioLira&show_icons=true&title_color=F6F1E9&text_color=000000&icon_color=f8d847&bg_color=-30,DC3535,FF8400,FFD93D"/>
   
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioLira&layout=compact&langs_count=7&hide=EJS&card_width=500&title_color=F6F1E9&text_color=000000&icon_color=f8d847&bg_color=-30,DC3535,FF8400,FFD93D"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioLira&layout=compact&langs_count=7&hide=EJS&card_width=400&title_color=F6F1E9&text_color=000000&icon_color=f8d847&bg_color=-30,DC3535,FF8400,FFD93D"/>
 
 </div>
 
