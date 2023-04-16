@@ -20,5 +20,3 @@
 </div><br/>
 
 ## Sempre me desenvolvendo e buscando novas soluções
-
-![Snake animation](https://github.com/OtavioLira/OtavioLira/blob/output/github-contribution-grid-snake.svg)
