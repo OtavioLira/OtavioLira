@@ -44,4 +44,8 @@
 
 ##
 
+![Snake](https://github.com/OtavioLira/OtavioLira/blob/main/github-user-contribution.svg)
+
+##
+
 ### Always developing myself and looking for new solutions
