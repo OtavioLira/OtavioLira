@@ -43,6 +43,7 @@
 </div>
 
 ##
+![snake animation](https://github.com/OtavioLira/OtavioLira/blob/output/github-contribution-grid-snake2.svg)
 
 ![Snake](https://github.com/OtavioLira/OtavioLira/blob/main/github-user-contribution.svg)
 
