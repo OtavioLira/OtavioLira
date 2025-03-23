@@ -1,12 +1,34 @@
-### Hi! I'm Otávio Lira nice to meet you 👋😄
+### Olá! Eu sou Otávio, bem-vindo a meu Github 👋😄
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](otavioliraneves@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavioliraneves/)
+Sou um desenvolvedor back-end com 20 anos, formado em Inteligência Artificial pela FIAP. Tenho experiência sólida em automação de processos (RPA) e desenvolvo aplicações web e sistemas utilizando Python e Java. Estou sempre em busca de novas soluções e aprimoramento contínuo.
+
+Caso queira ver meus projetos, abaixo tem meus projetos marcados
 
 ##
 
 <div style="display: inline_block">
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioLira&show_icons=true&title_color=F6F1E9&text_color=000000&bg_color=-30,DC3535,FF8400,FFD93D"/>
+ <h3>Linguagens e Tecnologias</h3>
+ <img 
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+ />        
+ <img 
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+ />        
+ <img 
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+ />        
+ <img 
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
+ />        
+</div>
+
+## Estatísticas
+<div style="display: inline_block">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioLira&show_icons=true&title_color=F6F1E9&text_color=000000&bg_color=-30,DC3535,FF8400,FFD93D"/>
 
   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioLira&layout=compact&langs_count=7&hide=EJS&card_width=340&title_color=F6F1E9&text_color=000000&bg_color=-30,DC3535,FF8400,FFD93D"/>
  
@@ -15,16 +37,7 @@
 ##
 
 <div style="display: inline_block">
- <h3>My favorite technologies</h3>
- <img align="center" alt="Simbolo do Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
- <img align="center" alt="Simbolo do Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- <img align="center" alt="Simbolo do Python" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
-
-##
-
-<div style="display: inline_block">
- <h3>tools I've used</h3>
+ <h3>Ferramentas e Tecnologias que explorei</h3>
  <img align="center" alt="Simbolo do HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>    
  <img align="center" alt="Simbolo do CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img align="center" alt="Simbolo do Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -41,17 +54,13 @@
  <img align="center" alt="Simbolo do Apache Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
  <img align="center" alt="Simbolo do Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
  <img align="center" alt="Simbolo do RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
-    
+ <img align="center" alt="Simbolo do Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>
+ <img align="center" alt="Simbolo do Uipath" src="https://img.shields.io/badge/Uipath-E34F26?style=for-the-badge&logo=uipath&logoColor=white"/>
 </div>
 
-##
+## Contato
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavioliraneves/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](otavioliraneves@gmail.com)
 
-##
-
-### Always developing myself and looking for new solutions
+### "Sempre me desenvolvendo e buscando novas soluções"
